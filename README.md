@@ -12,4 +12,4 @@ Go to FinTech in your cmd and run `ng serve` to run the dev server, navigate to 
 
 ## OBS
 
-Don't forget to use npm install in both folders
+Don't forget to use `npm install` in both folders
