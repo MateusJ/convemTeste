@@ -1,0 +1,11 @@
+<div id="formConvem">    
+    <img src="../../assets/images/new_logo.png">
+    <h3>Você quer se juntar ao time da Convem?</h3>
+
+    <div class="divInput">
+        <input name="respostaUsuario" id='respostaUsuario' class='input'  placeholder="SIM..." #respostaUsuario>
+    </div>
+    <br><br><br><br>
+    <button (click)="verificar()">Responder</button>
+    <h1 [ngStyle] = "setStyle()">&nbsp;{{respostaFinal}}&nbsp;</h1>
+</div>    

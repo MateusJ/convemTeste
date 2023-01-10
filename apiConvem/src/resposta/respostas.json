@@ -1,0 +1,12 @@
+[
+    {
+        "id" : "1",
+        "respostaUsu":"Sim",
+        "respostaAPI":"Sucesso"
+    },
+    {
+        "id" : "2",
+        "respostaUsu":"Não",
+        "respostaAPI":"Erro"
+    }
+]
